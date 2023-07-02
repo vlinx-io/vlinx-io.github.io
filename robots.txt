@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://protector4j.com
+
+# Sitemaps
+Sitemap: https://protector4j.com/sitemap.xml
